@@ -2,6 +2,20 @@
 
 Project 2
 
-In order to extract, transform, and load crowdfunding data from Excel files into a relational database, a collaborative project is developing an ETL pipeline using Python, Pandas, and PostgreSQL.
+For the ETL mini project, we are working with a partner to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. We are creating four CSV files and use the CSV file data to create an ERD and a table schema after we have transformed the data. In the end, we are uploading data from CSV files to a Postgres database.
 
-In this project, we practiced building an ETL pipeline to process crowdfunding data from Excel files. We are extracting and converting data, creating four CSV files for the Entity Diagram Relationship ERD schema, after which we use them to create a Table Schema. And finally, we've imported the CSV files to a PostgreSQL database.
+The instructions for this mini project are divided into the following subsections:
+Create the Category and Subcategory DataFrames
+Create the Campaign DataFrame
+Create the Contacts DataFrame
+Create the Crowdfunding Database
+
+Create the Category and Subcategory DataFrames
+
+Create the Campaign DataFrame
+
+Create the Contacts DataFrame
+
+Create the Crowdfunding Database
+
+
